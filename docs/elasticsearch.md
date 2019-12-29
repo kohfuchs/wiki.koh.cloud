@@ -62,7 +62,7 @@ Wenn nötig können wir OCR mit installieren
 sudo apt install tesseract-ocr tesseract-ocr-eng tesseract-ocr-deu tesseract-ocr-fra
 ```
 
-### Zusatz
+## Zusatz
 
 Falls alle Sprachen verwendet werden sollen:
 ```
