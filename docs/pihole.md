@@ -44,7 +44,9 @@ Listen könnt ihr aktuell halten mit `pihole -g`
 |:----|:----|
 | https://raw.githubusercontent.com/RPiList/specials/master/notserious | Sempervideo Liste für Fakeshops |
 | https://raw.githubusercontent.com/RPiList/specials/master/Win10Telemetry | Sempervideo Liste für die WIN10 Telemetry Dienste |
-| https://raw.githubusercontent.com/RPiList/specials/master/easylist | Sempervideo Liste für einfach Werbung |
+| https://raw.githubusercontent.com/RPiList/specials/master/easylist | Sempervideo Liste für Werbung |
 | https://v.firebog.net/hosts/Easylist.txt ||
 | https://v.firebog.net/hosts/AdguardDNS.txt ||
 | https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list ||
+| https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt| SmartTV Liste |
+| https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt | Android Tracking |
