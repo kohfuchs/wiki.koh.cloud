@@ -3,30 +3,27 @@
 
 ## 1. Install ES
 ```
-apt install openjdk-11-jre
+sudo apt install openjdk-11-jre
 ```
 ```
-apt install apt-transport-https
+sudo apt install apt-transport-https
 ```
 ```
 wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
 ```
 ```
-echo "deb https://artifacts.elastic.co/packages/6.x/apt stable main" | tee -a /etc/apt/sources.list.d/elasticsearch.list
+sudo echo "deb https://artifacts.elastic.co/packages/6.x/apt stable main" | tee -a /etc/apt/sources.list.d/elasticsearch.list
 ```
 ```
-apt update
-```
-```
-apt install elasticsearch
+sudo apt update && sudo apt install elasticsearch
 ```
 
 
 ### ES config
 ```
-nano /etc/elasticsearch/elasticsearch.yml
+vim /etc/elasticsearch/elasticsearch.yml
 ```
-change `network.host: 127.0.0.1`
+ändere `network.host: 127.0.0.1`
 
 ### Restart
 ```
