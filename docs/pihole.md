@@ -13,6 +13,9 @@ Das hat einen tollen neben effect, wir können mehr als nur Werbung blocken. Eig
 
 
 ## Installation
+
+> [Pi für den Einsatz ohne Bildschirm vorbereiten](https://wiki.koh.cloud/pihole-headless/)
+
 Dank Script wirklich einfach
 
 ```
