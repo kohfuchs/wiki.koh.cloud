@@ -1,4 +1,13 @@
 site_name: KOH.CLOUD Wiki
 theme:
   name: 'material'
-repo_url: https://github.com/kohfuchs/wiki.koh.cloud
+  language: 'de'
+  font:
+  text: 'Roboto'
+  code: 'Roboto Mono'
+repo_url: 'https://github.com/kohfuchs/wiki.koh.cloud'
+copyright: 'Copyright &copy; 2020 KOH'
+
+plugins:
+  - search
+  - git-revision-date-localized

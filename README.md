@@ -1,5 +1,8 @@
 # README wiki.koh.cloud
 
-Dieses Wiki soll eine Sammlung von Software und deren Configuration werden.
+_Wer schreibt der bleibt._
 
-*** Gerne dürfen eigene werke und Verbesserungen eingereicht werden. ***
+Nach diesem gedanken soll dieses Wiki eine Sammlung von Anleitungen und Configurationen für Software werden.
+
+PRs werden gern gesehen. 😎
+

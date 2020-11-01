@@ -7,6 +7,7 @@ Ist ein neues Image verfügbar, wird dein Aktueller Container gestoppt, das neue
 ```
 docker run -d \
 --name watchtower \
+--restart always \
 -v /var/run/docker.sock:/var/run/docker.sock \
 containrrr/watchtower
 ```

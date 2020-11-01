@@ -1,6 +1,8 @@
 # Elastic Search
 > für Ubuntu oder [Debian-Derivate](https://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen#Debian-Derivate)
 
+![ES_logo](logo/elasticsearch-logo.png)
+
 ## 1. Install ES
 ```
 sudo apt install openjdk-11-jre

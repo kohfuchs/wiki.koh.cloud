@@ -1,5 +1,9 @@
 # Welcome on KOH.CLOUD
 
-Linux = <3
+Linux = ❤
 
-[Tux (Maskottchen)](https://de.wikipedia.org/wiki/Tux_(Maskottchen))
+_Wer schreibt der bleibt._
+
+Nach diesem gedanken soll dieses Wiki eine Sammlung von Anleitungen und Configurationen für Software werden.
+
+PRs werden gern gesehen. 😎
