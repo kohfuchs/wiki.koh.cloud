@@ -45,3 +45,13 @@ Und schon wurde ein Container erstellt und die Weboberfläche ist über den Dock
 Der YouTube Kanal Techno Tim [erklährt](https://www.youtube.com/watch?v=oILc0ywDVTk "YouTube Video 'Docker, Rancher, Kubernetes... Minecraft? (Rancher Setup and Install Tutorial)' von Techno Tim") eine alternative, welche mit Kuberneties funktioniert.
 Rancher
 https://rancher.com/quick-start/
+
+### Single node Quick start
+
+```
+docker run -d --restart=unless-stopped \
+  -p 80:80 -p 443:443 \
+  --privileged \
+  rancher/rancher:latest
+
+```
